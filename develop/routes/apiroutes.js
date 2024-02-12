@@ -32,3 +32,6 @@ router.delete ('api/notes/:id', (req, res) => {
     fs.writeFileSync('db/db.json',JSON.stringify(modInfo));
     res.json('Data Removed!');
 });
+
+// Export Router Data
+module.exports = router;
