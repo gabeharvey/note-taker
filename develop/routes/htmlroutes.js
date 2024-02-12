@@ -6,3 +6,8 @@ const path = require('path');
 router.get('/', (req, res) => {
     res.sendFile(path.join(__dirname,'../public/index.html'));
 });
+
+// Middleware Get Request Serve notes.html to User
+router.get('/notes', (req, res) => {
+    res.sendFile(path.join(__dirname,'../public/notes.html'));
+});
