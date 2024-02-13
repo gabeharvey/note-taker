@@ -23,6 +23,8 @@
 
 Small Business Owner Common Tasks Source: https://www.uschamber.com/co/grow/thrive/things-small-business-owners-should-do-each-day
 
+File Structure Guidance provided by AskBCS Learning Assistant (Username: cphiri "Chipo")
+
 ## Screenshots
 
 ## Video
