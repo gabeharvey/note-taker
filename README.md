@@ -25,6 +25,8 @@ Small Business Owner Common Tasks Source: https://www.uschamber.com/co/grow/thri
 
 File Structure Guidance provided by AskBCS Learning Assistant (Username: cphiri "Chipo")
 
+Delete Function Guidance provided by AskBCS Learning Assistant (Username: blopez "Benicio")
+
 ## Screenshots
 
 ## Video

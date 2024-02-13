@@ -1,7 +1,7 @@
 // Required Packages for API Routes
 const router = require('express').Router();
 const fs = require('fs');
-const { v4: uuidv4 } = require('uuid');
+const uuidv1 = require('uuid/v1');
 
 // Middleware Get Request for db.json file
 router.get ('/api/notes', async (req, res) => {
@@ -15,7 +15,7 @@ router.post ('/api/notes', (req, res) => {
     const bizStrat = {
         title: req.body.title,
         text: req.body.text,
-        id: uuidv4(),
+        id: uuidv1(),
     };
     dbApi.push(bizStrat);
     fs.writeFileSync('db/db.json',JSON.stringify(dbApi));
@@ -23,7 +23,7 @@ router.post ('/api/notes', (req, res) => {
 });
 
 // Middleware Delete Request for db.json file
-router.delete ('api/notes/:id', (req, res) => {
+router.delete ('/api/notes/:id', (req, res) => {
     let gen = fs.readFileSync('db/db.json','utf8');
     const genInfo = JSON.parse(gen);
     const modInfo = genInfo.filter((note) => {
