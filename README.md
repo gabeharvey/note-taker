@@ -39,6 +39,18 @@ YouTube Video accessed for guidance on Routes: https://www.youtube.com/watch?v=-
 
 ## Screenshots
 
+Landing Page Main Screen:
+
+![Alt Text](./images/landing-screen.png)
+
+Data Entry Screen:
+
+![Alt Text](./images/data-entry-screen.png)
+
+Results Screen:
+
+![Alt Text](./images/results-screen.png)
+
 ## Video
 
 ## Link to Website
