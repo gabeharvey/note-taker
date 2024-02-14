@@ -1,5 +1,4 @@
 // Required Packages for Server
-const exp = require('constants');
 const apiRoutes = require('./routes/apiroutes');
 const htmlRoutes = require('./routes/htmlroutes');
 const express = require('express');
