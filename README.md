@@ -33,6 +33,8 @@ File Structure Guidance provided by AskBCS Learning Assistant (Username: cphiri 
 
 Delete Function Guidance provided by AskBCS Learning Assistant (Username: blopez "Benicio")
 
+Tutor Guidance Provided by Jose Lopez
+
 Project done in collaboration with coding students Kalyn Sifuentes, Joshua Hale, and Angela Cortes
 
 YouTube Video accessed for guidance on Routes: https://www.youtube.com/watch?v=-UiqzvUe360 by Thomas Calle
@@ -52,6 +54,8 @@ Results Screen:
 ![Alt Text](./images/results-screen.png)
 
 ## Video
+
+N/A
 
 ## Link to Website
 
